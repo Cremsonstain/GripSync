@@ -6,10 +6,12 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "typecheck": "tsc --noEmit -p ./tsconfig.json"
   },
   "dependencies": {
     "@gripsync/3d-viewer": "workspace:*",
+    "@radix-ui/react-slot": "^1.1.2",
     "@tanstack/react-query": "^5.0.0",
     "clsx": "^2.1.0",
     "framer-motion": "^11.0.0",
