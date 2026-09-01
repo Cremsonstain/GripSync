@@ -5,8 +5,9 @@
   "main": "./src/index.ts",
   "types": "./src/index.ts",
   "scripts": {
-    "lint": "tsc --noEmit",
-    "build": "tsc --noEmit"
+    "lint": "echo \"@gripsync/3d-viewer: no ESLint rules configured\"",
+    "typecheck": "tsc --noEmit -p ./tsconfig.json",
+    "build": "tsc --noEmit -p ./tsconfig.json"
   },
   "dependencies": {
     "@react-three/drei": "^9.108.4",

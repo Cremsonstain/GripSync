@@ -1,0 +1,18 @@
+{
+  "title": "Interactive setup viewer",
+  "mouse": "Mouse",
+  "keyboard": "Keyboard",
+  "mousepad": "Mousepad",
+  "monitor": "Monitor",
+  "speed": "Speed",
+  "control": "Control",
+  "inspect": "Inspect",
+  "close": "Close",
+  "gripHeatmap": "Grip heatmap",
+  "movementRange": "Movement range",
+  "dpi": "DPI",
+  "latency": "Latency",
+  "actuation": "Actuation",
+  "refreshRate": "Refresh rate",
+  "aspectRatio": "Aspect ratio"
+}

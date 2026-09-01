@@ -6,7 +6,8 @@
   "scripts": {
     "build": "tsc",
     "dev": "tsc --watch",
-    "lint": "eslint \"src/**/*.ts\""
+    "lint": "eslint \"src/**/*.ts\"",
+    "typecheck": "tsc --noEmit -p ./tsconfig.json"
   },
   "devDependencies": {
     "typescript": "^5.3.0",
