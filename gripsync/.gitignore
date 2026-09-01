@@ -5,6 +5,7 @@ dist
 build
 .next
 out
+.turbo/
 
 # Python
 __pycache__/
