@@ -1,0 +1,22 @@
+[
+    {
+        "id": "m1", "name": "G Pro X Superlight 2", "brand": "Logitech", "category": "mouse", "price_usd": 159.99, "image_url": "", "purchase_url": "",
+        "spec": {"weight": 60, "shape": "Symmetrical", "sensor": "Hero 2", "max_dpi": 32000, "polling_rate": 4000, "wireless": true, "grip_compatibility": ["claw", "fingertip"]}
+    },
+    {
+        "id": "m2", "name": "Viper V3 Pro", "brand": "Razer", "category": "mouse", "price_usd": 159.99, "image_url": "", "purchase_url": "",
+        "spec": {"weight": 54, "shape": "Symmetrical", "sensor": "Focus Pro 35K", "max_dpi": 35000, "polling_rate": 8000, "wireless": true, "grip_compatibility": ["claw", "fingertip"]}
+    },
+    {
+        "id": "p1", "name": "Artisan Hien", "brand": "Artisan", "category": "mousepad", "price_usd": 45.00, "image_url": "", "purchase_url": "",
+        "spec": {"width": 490, "height": 420, "surface_type": "Hybrid", "material": "Cloth", "thickness": 3}
+    },
+    {
+        "id": "k1", "name": "Wooting 60HE", "brand": "Wooting", "category": "keyboard", "price_usd": 174.99, "image_url": "", "purchase_url": "",
+        "spec": {"layout": "60%", "switch_type": "Magnetic", "actuation_point": 0.1, "polling_rate": 1000}
+    },
+    {
+        "id": "mon1", "name": "Zowie XL2566K", "brand": "BenQ", "category": "monitor", "price_usd": 599.99, "image_url": "", "purchase_url": "",
+        "spec": {"panel_type": "TN", "refresh_rate": 360, "response_time": 0.5, "resolution": "1920x1080", "size_inches": 24.5}
+    }
+]
