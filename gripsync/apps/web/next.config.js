@@ -1,7 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  // i18n support placeholder, typically using next-i18next or app router middleware
   reactStrictMode: true,
+  transpilePackages: ['@gripsync/3d-viewer'],
 };
 
 module.exports = nextConfig;
